@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>灵泽</title>
+<center>
+ <h1>
+<center style="color:red;font-size:60px">灵泽-大学生创新创业合作伙伴</style> 
+ </h1>
+<img src="./view.jpg"/><src style="text-align:center"></style>
+</center>
+ </head>
+ <body>
+ <body background="./980.jpg">
+  <nav>
+  <h3>
+   <a href="">首页</a>
+   <a href="">关于我们</a>
+  </nav>
+  <header>
+   头部信息 <input type="text"><button>搜索内容</button>
+    </header>
+      <aside element style="text-align:right">侧边栏</aside>
+  </h3>
+    <main>
+<h2>
+<main style="text-align:center">
+<main style="color:yellow">
+   <div>
+ <ul>
+        <a href=""><li>创新创业指导</li></a>
+        <a href=""><li>行业百科</li></a>
+        <a href=""><li>政策分析</li></a>
+        <a href=""><li>项目制作</li></a>
+        <a href=""><li>项目引资</li></a>
+        <a href=""><li>信息交流</li></a>
+<img src="./b08af3de8731af61e91ff9aabba3cbdb.jpg"/>
+ </ul>
+</style>
+</style>
+</h2>
+<audio src="./musci.ogg" controls></audio>
+    </div> 
+    </section>
+   </main>
+  </body>
+</html>
